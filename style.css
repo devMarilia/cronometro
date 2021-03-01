@@ -19,6 +19,10 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     margin-top: 20px;
 }
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+}
 
 button {
     padding: 10px;
