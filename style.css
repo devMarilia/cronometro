@@ -46,3 +46,14 @@ button:hover {
 .bg-red {
     background-color: #d1a1a1;
 }
+footer {
+    text-align: center;
+    justify-content: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    color: #d1a1a1;
+}
+a {
+    color: #d1a1a1;
+}
