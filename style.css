@@ -32,6 +32,7 @@ button {
     transition: all .5s;
     cursor: pointer;
     border-radius: 25px;
+    outline-style: none;
 }
 button:hover {
     background-color: #a1c0d1;
